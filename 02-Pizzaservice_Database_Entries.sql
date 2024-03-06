@@ -1,21 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 5.0.1
--- https://www.phpmyadmin.net/
---
--- Host: 127.0.0.1
--- Erstellungszeit: 13. Dec 2020 um 14:05
--- Server-Version: 10.4.11-MariaDB
 
--- PHP-Version: 7.4.2
-
--- /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
--- /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
--- /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
--- /*!40101 SET NAMES utf8mb4 */;
-
--- 
--- Datenbank: `pizzaservice`
--- UTF8 Header äüöüßßßäü
 
 SET NAMES utf8mb4;
 
